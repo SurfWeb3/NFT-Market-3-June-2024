@@ -2,8 +2,8 @@
 
 // 1. Set up the network your smart contracts are deployed to.
 // First, import the chain from the package, then set the NETWORK variable to the chain.
-import { Mumbai } from "@thirdweb-dev/chains";
-export const NETWORK = sepolia;
+import { Sepolia } from "@thirdweb-dev/chains";
+export const NETWORK = Sepolia;
 /* export const NETWORK = Mumbai; */
 
 // 2. The address of the marketplace V3 smart contract.
