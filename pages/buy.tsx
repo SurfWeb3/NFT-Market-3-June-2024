@@ -1,4 +1,4 @@
-import { useContract, useNFTs } from "@thirdweb-dev/react";
+import { useContract, useNFTs, clientId } from "@thirdweb-dev/react";
 import React from "react";
 import Container from "../components/Container/Container";
 import NFTGrid from "../components/NFT/NFTGrid";
